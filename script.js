@@ -90,9 +90,9 @@ function initPage() {
   var init11 = JSON.parse(localStorage.getItem("11:00 pm"));
   elevenPm.val(init11);
 
-  var init10 = JSON.parse(localStorage.getItem("12:00 am"));
-  tenPm.val(init10);
-  
+  var init12 = JSON.parse(localStorage.getItem("12:00 am"));
+  twelvePm.val(init12;
+
 } 
 
 function background () {
