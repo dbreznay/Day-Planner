@@ -92,6 +92,7 @@ function initPage() {
 
   var init10 = JSON.parse(localStorage.getItem("12:00 am"));
   tenPm.val(init10);
+  
 } 
 
 function background () {
@@ -122,6 +123,7 @@ $(document).ready(function(){
     localStorage.setItem(hourSpan, JSON.stringify(userInput));
 
   });
+
   // Button for clear the day
 
   $("#clearDay").on("click", function(){
