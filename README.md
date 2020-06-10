@@ -34,8 +34,8 @@ THEN the saved events persist
 
 The following animation demonstrates the application functionality:
 
-![day planner demo](![day-planner](https://user-images.githubusercontent.com/60904436/84215257-50250180-aa8b-11ea-9c18-f81f8e567fa2.gif)
-)
+![day planner demo](https://user-images.githubusercontent.com/60904436/84215257-50250180-aa8b-11ea-9c18-f81f8e567fa2.gif)
+
 
 
 
