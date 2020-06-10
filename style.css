@@ -82,4 +82,9 @@ body {
   .saveBtn i:hover {
     font-size: 40px;
     transition: all .3s ease-in-out;
+
+  }
+
+  .clearDay { 
+      
   }
